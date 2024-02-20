@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Sara! 
-I study and live at the beautiful UBC, vancouver. I am passionate about web development, machine learning, mathematics (sometimes).
+I study and live at the beautiful UBC, vancouver. I am passionate about web development, machine learning, mathematics.
 
 - 💻 I’m currently working on my CineMemo App
 - 🌱 I’m currently learning computer vision and web development
